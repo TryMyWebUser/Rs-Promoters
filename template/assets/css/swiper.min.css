@@ -322,9 +322,9 @@ button.swiper-pagination-bullet {
     left: 0;
     top: 0
 }
-/* .swiper-pagination-white {
+.swiper-pagination-white {
     --swiper-pagination-color: #ffffff
-} */
+}
 .swiper-pagination-black {
     --swiper-pagination-color: #000000
 }

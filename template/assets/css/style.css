@@ -544,7 +544,7 @@
 
 .about-one_button{
 	position:relative;
-	margin-top:100px;
+	margin-top:300px;
 }
 
 .about-one_content-column{
@@ -2203,7 +2203,7 @@
 }
 
 .service-two .service-block_one{
-	width:25%;
+	width:20%;
 	padding:0px 15px;
 }
 
@@ -2331,7 +2331,6 @@
 
 .fluid-one{
 	position: relative;
-	margin-top: 100px;
 }
 
 .fluid-one:before{
@@ -3522,7 +3521,7 @@
 	right:0px;
 	height:50%;
 	z-index:-1;
-	/* background-image: linear-gradient(to bottom, #f5f5f5, #f7f7f7, #fafafa, #fcfcfc, #ffffff); */
+	background-image: linear-gradient(to bottom, #f5f5f5, #f7f7f7, #fafafa, #fcfcfc, #ffffff);
 }
 
 .team-one .auto-container{
@@ -6049,14 +6048,14 @@
     font-size: 260px;
     line-height: 1em;
     font-weight: 800;
-    /* color: #ffffff; */
+    color: #ffffff;
 	opacity:0.40;
     margin: 150px 25px 0px;
     display: inline-block;
     text-transform: uppercase;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 2px;
-    /* -webkit-text-stroke-color: #ffffff; */
+    -webkit-text-stroke-color: #ffffff;
     font-family: "Raleway", serif;
 }
 
@@ -7514,7 +7513,7 @@
 	right:0px;
 	height:50%;
 	z-index:-1;
-	/* background-image: linear-gradient(to bottom, #f5f5f5, #f7f7f7, #fafafa, #fcfcfc, #ffffff); */
+	background-image: linear-gradient(to bottom, #f5f5f5, #f7f7f7, #fafafa, #fcfcfc, #ffffff);
 }
 
 /* Post Widget */
