@@ -544,7 +544,7 @@
 
 .about-one_button{
 	position:relative;
-	margin-top:100px;
+	margin-top: 0px;
 }
 
 .about-one_content-column{
@@ -2051,7 +2051,7 @@
 .banner-one{
 	position:relative;
 	overflow:hidden;
-	padding:270px 0px 70px;
+	padding: 0px 0px 70px;
 }
 
 .banner-one_image{
@@ -2079,7 +2079,7 @@
 
 .banner-one_title{
 	position:relative;
-	font-size:50px;
+	font-size:20px;
 	line-height:1em;
 	text-transform:uppercase;
 	color:var(--black-color);
@@ -2088,7 +2088,7 @@
 
 .banner-one_subtitle{
 	position:relative;
-	font-size: 72px;
+	font-size: 30px;
 	font-weight:800;
 	line-height:1em;
 	text-transform:uppercase;
@@ -2374,7 +2374,7 @@
 	position: relative;
 	float: right;
 	width: 50%;
-	padding: 210px 15px 40px 80px;
+	padding: 0px 15px 40px 80px;
 }
 
 .fluid-one .right-box_inner{
@@ -3189,7 +3189,7 @@
 	font-size:16px;
 	padding-left:30px;
 	margin-bottom:18px;
-	color:var(--black-color);
+	/* color:var(--black-color); */
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -5400,7 +5400,7 @@
 
 .customer-block_one-inner{
 	position:relative;
-	padding:70px 35px;
+	padding: 35px;
 	overflow:hidden;
 	border-radius:25px;
 	background-color:var(--white-color);
@@ -6278,9 +6278,9 @@
 
 .page-title h2{
 	font-weight: 700;
-	margin-bottom:50px;
-	text-transform:capitalize;
-	color:var(--white-color);
+	margin-bottom: 20px;
+	text-transform: capitalize;
+	color: var(--white-color);
 }
 
 .page-title .bread-crumb{

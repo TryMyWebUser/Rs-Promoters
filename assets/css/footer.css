@@ -532,7 +532,7 @@
 
 .footer-three_contacts li{
 	position:relative;
-	padding-left:40px;
+	/* padding-left:40px; */
 	font-size:18px;
 	line-height:30px;
 	margin-bottom:15px;
@@ -611,7 +611,7 @@
 	position:absolute;
 	content:'';
 	left:-31px;
-	bottom:0px;
+	bottom:-1px;
 	width:32px;
 	height:26px;
 	background:url(../images/icons/shape-6.png) no-repeat;

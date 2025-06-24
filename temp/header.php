@@ -1,4 +1,11 @@
-<header class="main-header header-style-one">
+<div class="page-wrapper">
+	<!-- Cursor -->
+	<div class="cursor"></div>
+	<div class="cursor-follower"></div>
+	<!-- Cursor End -->
+
+	<!-- Main Header / Header Style Two -->
+	<header class="main-header header-style-two">
 		
 		<!-- Header Lower -->
 		<div class="header-lower">
@@ -7,10 +14,14 @@
 					<div class="d-flex justify-content-between align-items-center">
 						
 						<div class="logo-box">
-							<div class="logo"><a href="index.php"><img src="assets/images/logo-2.png" alt="" title="Constrc" height="39" width="179"></a></div>
+							<div class="logo">
+								<a href="index.php">
+									<img src="assets/images/logo-2.png" width="80" alt="Logo" title="Constrc">
+								</a>
+							</div>
 						</div>
 						
-						<div class="nav-outer d-flex flex-wrap">
+						<div class="nav-outer d-flex align-items-center flex-wrap">
 							<!-- Main Menu -->
 							<nav class="main-menu navbar-expand-md">
 								<div class="navbar-header">
@@ -24,51 +35,35 @@
 								
 								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class="has-mega-menu"><a href="index.php">Home</a></li>
-										<li class=""><a href="about.php">About</a></li>
-										<li class="dropdown"><a href="#">Project</a>
-                                            <ul>
-												<li><a href="project.php">New Land</a></li>
-												<li><a href="project.php">New House</a></li>
-											</ul>
-                                        </li>
-										<li class="dropdown"><a href="#">Our Project</a>
+										<li><a href="index.php">Home</a></li>
+										<li><a href="about.php">About Us</a></li>
+										<li class="dropdown"><a href="#">Projects</a>
 											<ul>
-												<li><a href="our-project.php">Ongoing</a></li>
-												<li><a href="our-project.php">Completed</a></li>
+												<li><a href="New.php">New Project</a></li>
+												<li><a href="Resell.php">Resell Project</a></li>
 											</ul>
 										</li>
-										<li class=""><a href="contact.php">Contact</a></li>
+										<li><a href="contact.php">Contact Us</a></li>
 									</ul>
 								</div>
 							</nav>
-						</div>
+							
+							<!-- Main Menu End-->
+							<div class="outer-box d-flex align-items-center flex-wrap">
+								
+								<!-- Mobile Navigation Toggler -->
+								<div class="mobile-nav-toggler"><span class="icon fa-classic fa-solid fa-bars fa-fw"></span></div>
+								
+								<!-- Social Box -->
+								<div class="social-box">
+									<a href="https://www.facebook.com/share/1FgMnEo318/"><i class="fa-brands fa-facebook-f"></i></a>
+									<a href="https://www.instagram.com/rs_promoters_cbe?igsh=MWlrMjFybWIyeXFkaw=="><i class="fa-brands fa-instagram"></i></a>
+									<a href="https://whatsapp.com/channel/0029VbApleD89inrFcBXjN02"><i class="fa-brands fa-whatsapp"></i></a>
+									<a href="https://youtube.com/@rs_promoters?si=UxHclzMxwGx1Eczt"><i class="fa-brands fa-youtube"></i></a>
+								</div>
 
-						<!-- Main Menu End-->
-						<div class="outer-box d-flex align-items-center flex-wrap">
-
-							<!-- Button Box -->
-							<div class="main-header_button">
-								<a href="tel:+916383766144" class="theme-btn btn-style-three">
-									<span class="btn-wrap">
-										<span class="text-one">GET A QUOTE <i><img src="assets/images/icons/arrow-1.svg" alt="" /></i></span>
-										<span class="text-two">GET A QUOTE <i><img src="assets/images/icons/arrow-1.svg" alt="" /></i></span>
-									</span>
-								</a>
 							</div>
 							
-							<!-- About Widget -->
-							<!-- <span class="about-widget">
-								<span class="hamburger">
-									<span class="top-bun"></span>
-									<span class="meat"></span>
-									<span class="bottom-bun"></span>
-								</span>
-							</span> -->
-							
-							<!-- Mobile Navigation Toggler -->
-							<div class="mobile-nav-toggler"><span class="icon fa-classic fa-solid fa-bars fa-fw"></span></div>
-
 						</div>
 						
 					</div>
@@ -90,3 +85,4 @@
 		<!-- End Mobile Menu -->
 	
 	</header>
+	<!-- End Main Header -->

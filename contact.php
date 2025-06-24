@@ -28,41 +28,6 @@
 	<!-- Main Header -->
     <?php include 'temp/header.php'; ?>
 	<!-- End Main Header -->
-	
-	<!-- About Sidebar -->
-	<div class="about-sidebar">
-		<div class="gradient-layer"></div>
-		<!-- Close Button -->
-		<div class="close-sidebar-widget close-button">
-			<span class="fa-solid fa-xmark fa-fw"></span>
-		</div>
-		<div class="sidebar-inner">
-			<div class="upper-box">
-				<div class="image">
-					<img src="assets/images/resource/about-1.jpg" alt="" />
-				</div>
-				<div class="content-box">
-					<h3>About <span>Constrc</span></h3>
-					<div class="text">our clients, oue employees, and our community through our commitmrnt to leadership, excellence in craft, and attention to detail.</div>
-					<ul class="about-sidebar_list">
-						<li>Testimonials</li>
-						<li>Outsourcing</li>
-						<li>Privacy Policy</li>
-						<li>HR Training</li>
-						<li>Careers</li>
-					</ul>
-				</div>
-			</div>
-			<!-- Social Box -->
-			<div class="social-box">
-				<a href="https://facebook.com/"><i class="fa-brands fa-facebook-f"></i></a>
-				<a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
-				<a href="https://youtube.com/"><i class="fa-brands fa-youtube"></i></a>
-				<a href="https://instagram.com/"><i class="fa-brands fa-instagram"></i></a>
-			</div>
-		</div>
-	</div>
-	<!-- End About Sidebar -->
 
 	<!-- Page Title -->
     <section class="page-title" style="background-image:url(assets/images/background/6.jpg)">

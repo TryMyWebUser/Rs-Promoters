@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>Constrc Construction Business HTML-5 Template | Homepage 01</title>
+<title>RS Promoters</title>
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
@@ -27,50 +27,50 @@
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 <style>
 /* for desktop */
-        .whatsapp_float {
-            position:fixed;
-            width:60px;
-            height:60px;
-            bottom:40px;
-            left:40px;
-            background-color: #25d366;
-            color:#FFF;
-            border-radius:50px;
-            text-align:center;
-                font-size:30px;
-            box-shadow: 2px 2px 3px #999;
-                z-index:100;
-        }
+    .whatsapp_float {
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom:40px;
+        left:40px;
+        background-color: #25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+            font-size:30px;
+        box-shadow: 2px 2px 3px #999;
+            z-index:100;
+    }
 
+    .whatsapp-icon {
+        margin-top:16px;
+    }
+
+    .whatsapp-icon:hover {
+        color: var(--accent-color);
+    }
+    /* for mobile */
+    @media screen and (max-width: 767px){
         .whatsapp-icon {
-            margin-top:16px;
+        margin-top:10px;
         }
+        .whatsapp_float {
+            width: 40px;
+            height: 40px;
+            bottom: 20px;
+            left: 10px;
+            font-size: 22px;
+        }
+    }
 
-        .whatsapp-icon:hover {
-            color: var(--accent-color);
+    @media (max-width: 1199px) {
+        #menu-btn {
+            display: flex !important;
         }
-        /* for mobile */
-        @media screen and (max-width: 767px){
-            .whatsapp-icon {
-            margin-top:10px;
-            }
-            .whatsapp_float {
-                width: 40px;
-                height: 40px;
-                bottom: 20px;
-                left: 10px;
-                font-size: 22px;
-            }
+    }
+    @media (min-width: 1200px) {
+        #menu-btn {
+            display: none !important;
         }
-
-        @media (max-width: 1199px) {
-            #menu-btn {
-                display: flex !important;
-            }
-        }
-        @media (min-width: 1200px) {
-            #menu-btn {
-                display: none !important;
-            }
-        }
+    }
 </style>

@@ -349,7 +349,7 @@
 	}
 	
 	.banner-one_subtitle{
-		font-size:227px;
+		font-size: 30px;
 	}
 	
 	.service-two .service-block_one {
@@ -412,12 +412,12 @@
 @media only screen and (max-width: 1032px){
 	
 	.banner-one_subtitle {
-		font-size: 212px;
+		font-size: 30px;
 	}
 	
 	.banner-one_title {
-		font-size: 80px;
-		line-height:90px;
+		font-size: 20px;
+		/* line-height:90px; */
 	}
 	
 	.customer-block_one-number{
@@ -493,17 +493,17 @@
 		width:100%;
 	}
 	
-	.banner-one_button::before,
+	/* .banner-one_button::before,
 	.banner-one_image{
 		display:none;
-	}
+	} */
 	
 	.banner-one_subtitle span{
 		color:var(--main-color);
 	}
 
 	.banner-one_subtitle {
-		font-size: 150px;
+		font-size: 35px;
 	}
 	
 	.banner-one{
@@ -514,9 +514,9 @@
 		margin-bottom:30px;
 	}
 	
-	.banner-one{
+	/* .banner-one{
 		padding-top:150px;
-	}
+	} */
 		
 	.service-two .service-block_one {
 		width: 50%;
@@ -1047,7 +1047,7 @@
 	}
 	
 	.banner-one_subtitle {
-		font-size: 100px;
+		font-size: 35px;
 	}
 	
 	.service-block_one-inner{
@@ -1156,12 +1156,12 @@
 	}
 	
 	.banner-one_title {
-		font-size: 50px;
-		line-height: 60px;
+		font-size: 20px;
+		/* line-height: 60px; */
 	}
 	
 	.banner-one_subtitle {
-		font-size: 80px;
+		font-size: 30px;
 		margin-top:0px;
 	}
 	
@@ -1419,7 +1419,7 @@
 	}
 	
 	.banner-one_subtitle {
-		font-size: 60px;
+		font-size: 35px;
 	}
 	
 	.counter-block_two-text{
