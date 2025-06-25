@@ -34,8 +34,6 @@
 									<ul class="footer-three_links">
 										<li><a href="#">Home</a></li>
 										<li><a href="#">About</a></li>
-										<li><a href="#">Project</a></li>
-										<li><a href="#">Our Project</a></li>
 										<li><a href="#">Contact</a></li>
 									</ul>
 								</div>
@@ -46,8 +44,9 @@
 								<div class="links-widget">
 									<h4 class="footer-three_widget-title">Our Projects</h4>
 									<ul class="footer-three_links">
-										<li><a href="New.php">New Project</a></li>
-										<li><a href="Resell.php">Resell Project</a></li>
+										<li><a href="Villa.php">Villa</a></li>
+										<li><a href="Land.php">Land</a></li>
+										<li><a href="Commercial.php">Commercial</a></li>
 									</ul>
 								</div>
 							</div>
