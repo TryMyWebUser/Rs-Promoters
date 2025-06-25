@@ -16,7 +16,7 @@
 						<div class="logo-box">
 							<div class="logo">
 								<a href="index.php">
-									<img src="assets/images/logo-2.png" width="80" alt="Logo" title="Constrc">
+									<img src="assets/images/logo-2.png" width="150" alt="Logo" title="Logo">
 								</a>
 							</div>
 						</div>
@@ -39,8 +39,9 @@
 										<li><a href="about.php">About Us</a></li>
 										<li class="dropdown"><a href="#">Projects</a>
 											<ul>
-												<li><a href="New.php">New Project</a></li>
-												<li><a href="Resell.php">Resell Project</a></li>
+												<li><a href="Villa.php">Villa</a></li>
+												<li><a href="Land.php">Land</a></li>
+												<li><a href="Commercial.php">Commercial</a></li>
 											</ul>
 										</li>
 										<li><a href="contact.php">Contact Us</a></li>

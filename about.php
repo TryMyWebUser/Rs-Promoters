@@ -52,7 +52,7 @@
                                     construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted We are committed to redefining the construction
                                     industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted We are committed to redefining the construction industry with
                                     innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted. <br />
-                                    <h4><span>Surendran</span> (Proprator)</h4>
+                                    <h4><span>Surendran</span> (Proprietor)</h4>
                                     <h5>Since <span>2024</span></h5>
                                 </div>
                             </div>

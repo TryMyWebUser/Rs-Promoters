@@ -3189,7 +3189,7 @@
 	font-size:16px;
 	padding-left:30px;
 	margin-bottom:18px;
-	/* color:var(--black-color); */
+	color:var(--black-color);
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;

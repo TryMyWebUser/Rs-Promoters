@@ -167,7 +167,6 @@
 			</div>
 		</section>
 
-
 		<!-- Fluid One -->
 		<section class="fluid-one">
 			<div class="outer-container">
@@ -190,7 +189,7 @@
 								<h2 class="sec-title_heading"><span>RS </span> PROMOTERS</h2>
 								<div class="sec-title_text">
 									We are committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted We are
-									committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted - <b><span>Surendran</span> (Proprator).<b>
+									committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted - <b><span>Surendran</span> (Proprietor).<b>
 								</div>
 							</div>
 

@@ -167,7 +167,7 @@ body {
     left: 0;
     background: linear-gradient(135deg, rgba(239, 130, 67, 1) 0%, rgba(255, 101, 12, 1) 100%);
     z-index: 9999999;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     overflow: hidden;
