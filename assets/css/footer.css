@@ -419,6 +419,7 @@
 	background-color:var(--black-color);
 	background-position:right bottom;
 	background-repeat:no-repeat;
+	box-shadow: 0 0 0 1px #fff;
 }
 
 .footer-three .auto-container{

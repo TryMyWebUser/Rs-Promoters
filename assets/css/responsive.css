@@ -223,7 +223,8 @@
 	
 	.footer-three{
 		margin:0px 0px 0px;
-		border-radius:0px 0px;
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
 		background-image:inherit !important;
 	}
 	
