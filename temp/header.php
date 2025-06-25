@@ -79,7 +79,7 @@
 			<div class="close-btn"><span class="icon fa-xmark"></span></div>
 			
 			<nav class="menu-box">
-				<div class="nav-logo"><a href="index.php"><img src="assets/images/mobile-logo.svg" alt="" title=""></a></div>
+				<div class="nav-logo"><a href="index.php"><img src="assets/images/RS Logo-1.png" width="150" alt="Logo" class="rounded" title="Logo"></a></div>
 				<div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
 			</nav>
 		</div>

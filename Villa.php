@@ -4,6 +4,12 @@
 
         <?php include 'temp/head.php'; ?>
 
+        <style>
+            .row.clearfix {
+                border-bottom: ridge;
+            }
+        </style>
+
     </head>
 
     <body>
@@ -38,7 +44,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/1.png" alt="">
+                                                <a href="assets/images/projects/1.png" class="glightbox">
+                                                    <img src="assets/images/projects/1.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -85,7 +93,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/1.1.png" alt="">
+                                                <a href="assets/images/projects/1.1.png" class="glightbox">
+                                                    <img src="assets/images/projects/1.1.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -133,7 +143,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/1.2.png" alt="">
+                                                <a href="assets/images/projects/1.2.png" class="glightbox">
+                                                    <img src="assets/images/projects/1.2.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -185,7 +197,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/1.3.png" alt="">
+                                                <a href="assets/images/projects/1.3.png" class="glightbox">
+                                                    <img src="assets/images/projects/1.3.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -226,7 +240,7 @@
         <section class="shop-detail pt-0">
             <div class="auto-container">
                 
-                <div class="row clearfix">
+                <div class="row clearfix border-bottom-0">
                     <!-- Gallery Column -->
                     <div class="shop-detail_gallery-column col-lg-6 col-md-12 col-sm-12" style="align-content: center;">
                         <div class="inner-column">
@@ -236,7 +250,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/1.4.png" alt="">
+                                                <a href="assets/images/projects/1.4.png" class="glightbox">
+                                                    <img src="assets/images/projects/1.4.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>

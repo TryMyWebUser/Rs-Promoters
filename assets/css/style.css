@@ -2088,10 +2088,10 @@
 
 .banner-one_subtitle{
 	position:relative;
-	font-size: 30px;
+	font-size: 50px;
 	font-weight:800;
 	line-height:1em;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color:var(--main-color);
 	font-family: "Alumni Sans", sans-serif;
 }

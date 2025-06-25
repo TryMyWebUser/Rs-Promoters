@@ -78,10 +78,10 @@
 							<div class="col-12 col-md-10 col-lg-8">
 								<div class="banner-one_content text-white">
 									<h1 class="banner-one_title display-4 text-white">Welcome to</h1>
-									<div class="banner-one_subtitle my-3">Rs Promoters</div>
+									<div class="banner-one_subtitle my-3">RS Promoters</div>
 									<div class="banner-one_text fs-5 mb-4 text-white">
-										We are committed to redefining the construction <br class="d-none d-md-block" />
-										industry with innovative solutions.
+									    RS Promoters is here to guide you every step of the <br class="d-none d-md-block" />
+										way-with honesty, reliability, and unwavering dedication.
 									</div>
 									<div class="banner-one_button">
 										<a href="https://whatsapp.com/channel/0029VbApleD89inrFcBXjN02" class="theme-btn btn-style-three">
@@ -109,10 +109,10 @@
 							<div class="col-12 col-md-10 col-lg-8">
 								<div class="banner-one_content text-white">
 									<h1 class="banner-one_title display-4 text-white">Welcome to</h1>
-									<div class="banner-one_subtitle my-3">Rs Promoters</div>
+									<div class="banner-one_subtitle my-3">RS Promoters</div>
 									<div class="banner-one_text fs-5 mb-4 text-white">
-										We are committed to redefining the construction <br class="d-none d-md-block" />
-										industry with innovative solutions.
+										RS Promoters is here to guide you every step of the <br class="d-none d-md-block" />
+										way-with honesty, reliability, and unwavering dedication.
 									</div>
 									<div class="banner-one_button">
 										<a href="https://whatsapp.com/channel/0029VbApleD89inrFcBXjN02" class="theme-btn btn-style-three">
@@ -140,10 +140,10 @@
 							<div class="col-12 col-md-10 col-lg-8">
 								<div class="banner-one_content text-white">
 									<h1 class="banner-one_title display-4 text-white">Welcome to</h1>
-									<div class="banner-one_subtitle my-3">Rs Promoters</div>
+									<div class="banner-one_subtitle my-3">RS Promoters</div>
 									<div class="banner-one_text fs-5 mb-4 text-white">
-										We are committed to redefining the construction <br class="d-none d-md-block" />
-										industry with innovative solutions.
+										RS Promoters is here to guide you every step of the <br class="d-none d-md-block" />
+										way-with honesty, reliability, and unwavering dedication.
 									</div>
 									<div class="banner-one_button">
 										<a href="https://whatsapp.com/channel/0029VbApleD89inrFcBXjN02" class="theme-btn btn-style-three">
@@ -186,10 +186,10 @@
 							<!-- Sec Title -->
 							<div class="sec-title title-anim">
 								<div class="sec-title_title">About Our Company</div>
-								<h2 class="sec-title_heading"><span>RS </span> PROMOTERS</h2>
+								<h2 class="sec-title_heading"><span>RS </span> Promoters</h2>
 								<div class="sec-title_text">
 									We are committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted We are
-									committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted - <b><span>Surendran</span> (Proprietor).<b>
+									committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices. Our team of experts ensures every project is crafted - <b><span>SURENDRAN</span> (Proprietor).<b>
 								</div>
 							</div>
 

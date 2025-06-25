@@ -14,7 +14,7 @@
 									<div class="footer-three_logo">
 										<a href="index.php"><img src="assets/images/logo-2.png" alt="" title="" height="39" width="179" /></a>
 									</div>
-									<div class="footer-three_text">We are committed to redefining the construction industry with innovative solutions, cutting-edge technology, and sustainable practices.</div>
+									<div class="footer-three_text">At RS Promoters, we are dedicated to shaping dreams into reality by offering premium land and housing solutions across Coimbatore.</div>
 
 									<!-- Social Box -->
 									<div class="footer-three_socials">
@@ -141,3 +141,39 @@
 <script src="assets/js/element-in-view.js"></script>
 <script src="assets/js/color-settings.js"></script>
 <script src="assets/js/script.js"></script>
+
+<!-- Swiper core CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+
+		/* 1. Turn every .content-carousel into a Swiper instance */
+		document.querySelectorAll('.content-carousel').forEach(carousel => {
+			new Swiper(carousel, {
+				loop: true,
+				slidesPerView: 1,
+				spaceBetween: 10,
+				pagination: {
+					el: carousel.parentElement.querySelector('.swiper-pagination'),
+					clickable: true
+				},
+				navigation: {
+					nextEl: carousel.parentElement.querySelector('.swiper-button-next'),
+					prevEl: carousel.parentElement.querySelector('.swiper-button-prev'),
+				},
+				zoom: true            // pinch-zoom or double-tap if you like
+			});
+		});
+
+		/* 2. One lightbox instance covers them all */
+		GLightbox({ selector: '.glightbox' });
+
+	});
+</script>

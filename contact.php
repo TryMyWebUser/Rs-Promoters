@@ -35,7 +35,7 @@
 			<h2>Contact Us</h2>
 			<div class="d-flex justify-content-between align-items-center flex-wrap">
 				<ul class="bread-crumb clearfix">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li>Contact</li>
 				</ul>
 			</div>
@@ -75,8 +75,7 @@
                                         <i class="fa-classic fa-solid fa-phone fa-fw"></i>
 									</div>
 									<h4>Phone</h4>
-                                    <p>+916383766144</p>
-                                    <p>+919994296619</p>
+                                    <p>SURENDRAN - 6383766144, 9994296619</p>
 								</div>
 							</div>
 							

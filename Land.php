@@ -4,6 +4,12 @@
 
         <?php include 'temp/head.php'; ?>
 
+        <style>
+            .row.clearfix {
+                border-bottom: ridge;
+            }
+        </style>
+
     </head>
 
     <body>
@@ -38,7 +44,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.png" alt="">
+                                                <a href="assets/images/projects/2.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -85,7 +93,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.1.png" alt="">
+                                                <a href="assets/images/projects/2.1.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.1.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -130,7 +140,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.2.png" alt="">
+                                                <a href="assets/images/projects/2.2.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.2.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -175,7 +187,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.3.png" alt="">
+                                                <a href="assets/images/projects/2.3.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.3.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -220,7 +234,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.4.png" alt="">
+                                                <a href="assets/images/projects/2.4.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.4.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -265,7 +281,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.5.png" alt="">
+                                                <a href="assets/images/projects/2.5.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.5.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -310,7 +328,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.6.png" alt="">
+                                                <a href="assets/images/projects/2.6.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.6.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -355,7 +375,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.7.png" alt="">
+                                                <a href="assets/images/projects/2.7.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.7.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
@@ -392,7 +414,7 @@
         <section class="shop-detail pt-0">
             <div class="auto-container">
                 
-                <div class="row clearfix">
+                <div class="row clearfix border-bottom-0">
                     <!-- Gallery Column -->
                     <div class="shop-detail_gallery-column col-lg-6 col-md-12 col-sm-12" style="align-content: center;">
                         <div class="inner-column">
@@ -402,7 +424,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/2.8.png" alt="">
+                                                <a href="assets/images/projects/2.8.png" class="glightbox">
+                                                    <img src="assets/images/projects/2.8.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>

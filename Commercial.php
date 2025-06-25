@@ -38,7 +38,9 @@
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
                                             <figure class="image">
-                                                <img src="assets/images/projects/3.png" alt="">
+                                                <a href="assets/images/projects/3.png" class="glightbox">
+                                                    <img src="assets/images/projects/3.png" alt="">
+                                                </a>
                                             </figure>
                                         </div>
                                     </div>
