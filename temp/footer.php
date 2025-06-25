@@ -4,10 +4,10 @@
 		<div class="auto-container">
 			<!-- Widgets Section -->
 			<div class="widgets-section">
-				<div class="row clearfix">
+				<div class="row clearfix border-bottom-0">
 					<!-- Big Column -->
 					<div class="big-column col-lg-8 col-md-12 col-sm-12">
-						<div class="row clearfix">
+						<div class="row clearfix border-bottom-0">
 							<!-- Footer Column -->
 							<div class="footer-three_column col-lg-5 col-md-6 col-sm-12">
 								<div class="logo-widget">
@@ -55,7 +55,7 @@
 
 					<!-- Big Column -->
 					<div class="big-column col-lg-4 col-md-12 col-sm-12">
-						<div class="row clearfix">
+						<div class="row clearfix border-bottom-0">
 							<!-- Footer Column -->
 							<div class="footer-three_column col-lg-12 col-md-6 col-sm-12">
 								<div class="info-widget">

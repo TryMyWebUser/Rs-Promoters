@@ -1086,7 +1086,7 @@
 	height: 100%;
 	max-height: 100%;
 	overflow-y: auto;
-	background: #ffffff;
+	background: var(--black-color);
 	padding: 0px 0px;
 	z-index: 5;
 	border-radius: 0px;
@@ -1204,13 +1204,13 @@
 	position: relative;
 	display: block;
 	width:100%;
-	border-top: 1px solid #dddddd;
+	border-top: 1px solid #757575;
 }
 
 .main-header .mobile-menu .navigation li{
 	position: relative;
 	display: block;
-	border-bottom: 1px solid #dddddd;
+	border-bottom: 1px solid #757575;
 }
 
 .main-header .mobile-menu .navigation li > ul > li:last-child{
@@ -1218,7 +1218,7 @@
 }
 
 .main-header .mobile-menu .navigation li > ul > li:first-child{
-	border-top: 1px solid #dddddd;
+	border-top: 1px solid #757575;
 }
 
 .main-header .mobile-menu .navigation li > a{
@@ -1227,7 +1227,7 @@
 	line-height: 24px;
 	padding: 12px 20px;
 	font-size: 16px;
-	color: var(--black-color);
+	color: var(--white-color);
 	text-transform: capitalize;
 }
 
@@ -1257,7 +1257,7 @@
 	top:10px;
 	width:1px;
 	height:24px;
-	border-left:1px solid #dddddd;
+	border-left:1px solid #757575;
 }
 
 .main-header .mobile-menu .navigation li > ul,
